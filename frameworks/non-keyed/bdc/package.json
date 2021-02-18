@@ -1,5 +1,5 @@
 {
-  "name": "js-framework-benchmark-bdc",
+  "name": "js-framework-benchmark-non-keyed-bdc",
   "description": "Benchmark for BDC",
   "author": "Ben Mather <bwhmather@bwhmather.com> (bwhmather.com)",
   "license": "Apache-2.0",
@@ -12,7 +12,7 @@
     "frameworkVersionFromPackage": "bdc"
   },
   "dependencies": {
-    "bdc": "0.3.0"
+    "bdc": "1.0.0"
   },
   "devDependencies": {
     "rollup": "2.29.0",
